@@ -1,0 +1,154 @@
+#header {
+    background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);
+    color:black;
+	font-family: Ravie; 
+  font-size: 15pt;         
+  font-style: normal; 
+  font-weight: bold; 
+    text-align:center;
+    padding:5px;
+}
+
+
+h1.add {  color:black;
+	font-family: Ravie; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: italic; 
+}  
+
+
+ body {font-family: Bradley Hand ITC;
+      font-size:25px;
+	  font-weight: Bold;
+	  
+      background: linear-gradient(to bottom, #6699ff 0%, #ffffff 100%);
+	  }
+
+	  /* Style the tab */
+.tabs {
+    overflow: hidden;
+    border: 5px solid black;
+    background-color:#00BFFF;
+	margin-left:270px;
+	position:absolute;
+}
+
+/* Style the buttons inside the tab */
+.tabs button {
+    background-color: inherit;
+	font-family: Berlin Sans FB Demi;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.5s;
+    font-size: 20px;
+    tab-size: 16;
+}
+
+/* Change background color of buttons on hover */
+.tabs button:hover {
+    background-color: cyan;
+}
+
+/* Create an active/current tablink class */
+.tabs button.active {
+    background-color: #EE82EE;
+}
+
+/* Style the tab content */
+.tabscontent {
+    display: none;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+	width:30%;
+	}
+	div.box { margin:20px;
+    padding:20px; 
+	}
+	div.cell { margin:20px;
+    cellpadding:30px; 
+	}
+	div.pic {
+    position: fixed;
+    right: 0px;
+    width: 300px;
+ 
+    padding: 10px;
+}
+
+
+ body {font-family: Bradley Hand ITC;
+      font-size:25px;
+	  font-weight: Bold;
+	  
+      background: linear-gradient(to bottom, #6699ff 0%, #ffffff 100%);
+	  }
+
+	  /* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 5px solid black;
+    background-color: #E0FFFF;
+	margin-left:2.5em;
+    margin-right:2.5em;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+	font-family: Berlin Sans FB Demi;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 34px 26px;
+    transition: 0.5s;
+    font-size: 20px;
+    tab-size: 26;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+	width:45%;
+	}
+	div.box { margin:20px;
+    padding:20px; 
+	}
+	div.cell { margin:20px;
+    cellpadding:30px; 
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
